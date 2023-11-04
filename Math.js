@@ -22,7 +22,7 @@ while (ulang) {
     }
 
     if (chance === 0) {
-      alert('Anda gagal \nangka yang dicari adalah ' + c);
+      alert('Lia gagal, HAHAHAHAHA');
     }
   }
   ulang = confirm('Ulang Lagi?');
