@@ -221,4 +221,4 @@ while (ulang) {
   }
   ulang = confirm('Mau ulang ga cantik?');
 }
-alert("Terima kasih");
+alert("Oke makasih udah main ya cantikku");
