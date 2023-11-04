@@ -219,6 +219,6 @@ while (ulang) {
       alert('Lia gagal HAHAHHAHAHAHA');
     }
   }
-  ulang = confirm('Ulang Lagi?');
+  ulang = confirm('Mau ulang ga cantik?');
 }
 alert("Terima kasih");
